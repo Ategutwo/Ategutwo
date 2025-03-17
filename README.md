@@ -19,7 +19,7 @@ I'm a passionate **Full-Stack Web Developer** with a keen interest in building s
 - **Scheduling System**: A React-based tank scheduling system for Beer manufacturing company.
 
 ### 📈 GitHub Stats
-![Alvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlvinTegutwo&show_icons=true&theme=radical)
+![Alvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ATegutwo&show_icons=true&theme=radical)
 
 ### 📬 Let's Connect!
 - **Email**: alvintegutwodev@gmail.com
