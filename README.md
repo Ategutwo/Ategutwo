@@ -7,7 +7,7 @@ I'm a passionate **Full-Stack Web Developer** with a keen interest in building s
 ### 🔧 Tech Stack & Expertise
 
 - **Frontend**: Next.js, React.js, TypeScript, Tailwind CSS, Redux, shadcn/ui
-- **Backend**: Node.js, Express, NestJS, GraphQL, REST APIs
+- **Backend**: Node.js, Express, NextJS, GraphQL, REST APIs
 - **Databases**: PostgreSQL, MongoDB, Firebase, MySQL,Supabase Postegres
 - **DevOps & Tools**: Docker, CI/CD, Git, GitHub Actions, Vercel
 - **Testing**: Jest, Cypress, React Testing Library
